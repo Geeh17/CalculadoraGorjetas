@@ -1,9 +1,9 @@
 @import url(https://fonts.gogleapis.com/css?family=lato:300,400,700|PT++Mono);
 
 :root {
-    --primary-color: lightcoral;
-    --secondary-color: Dimgrey;
-    --tertiary-color: Gainsboro;
+    --primary-color: black;
+    --secondary-color:white ;
+    --tertiary-color: rgb(61, 44, 44);
 }
 
 body {
@@ -65,4 +65,10 @@ body {
     height: 50px;
     font-size: 17px;
     color: white;
+}
+
+#totalTip {
+    font-size: 20px;
+    margin-top: 5px;
+    text-align: center;
 }
